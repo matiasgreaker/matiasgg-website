@@ -2,6 +2,7 @@ baseURL = 'https://matiasgreaker.github.io'
 languageCode = 'en-us'
 title = 'matiasgg notes'
 theme = 'hugo-theme-techdoc'
+canonifyURLs = true
 
 [params]
     menu_style = "open-menu" # "open-menu" or "slide-menu"

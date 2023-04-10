@@ -3,6 +3,7 @@
 1. Download Hugo: https://gohugo.io/
 2. Clone this repo
 3. Edit page
+4. Run ```hugo server -t hugo-theme-techdoc``` to test locally.
 4. Push to "main" branch to update website.
 
 # Edit page
