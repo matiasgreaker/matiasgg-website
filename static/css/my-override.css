@@ -1,0 +1,5 @@
+header {
+  color: var(--custom-font-color, #fff);
+  background: var(--custom-background-color, #000);
+  padding: 2rem 1.28rem;
+}
