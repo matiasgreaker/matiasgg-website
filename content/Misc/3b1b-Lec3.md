@@ -22,13 +22,13 @@ Which I think is not at all easy by just looking at the equations. However this 
 ### Weird assumptions
 Let us define a number $i^2=-1$. After this definition a typicall conversation would go something like:
 
-"Wait, there is no such numbers!" - someone.
+"Wait, there is no such numbers!"
 
-"But we just defined it." - Math professor.
+"But we just defined it."
 
-"..." - someone.
+"..."
 
-"You can do that? Just define solutions?" - someone.
+"You can do that? Just define solutions?"
 
 Well, you can actually define solutions to equations, you of course have to make sure the definition dosn't contradict previous definitions, e.g. you cannot just define $5=1$. When doing such definitions, like $i^2=-1$ you should also make sure you define how operations with the definition works. So lets do that.
 #### Addition
