@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'matiasgg notes'
-theme = 'techdoc'
+theme = 'hugo-theme-techdoc'
 
 [params]
     menu_style = "open-menu" # "open-menu" or "slide-menu"
