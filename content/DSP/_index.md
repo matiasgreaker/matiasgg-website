@@ -5,6 +5,4 @@ draft: false
 weight: 20
 ---
 
-This folder contains my notes on DSP (Digital Signal Prosessing). In school you learned digital signal processing, here you will learn how to process signals digitally - that is at least the idea of this folder. We will see...
-
-Did this work!
+Disse sidene er mine notater om "Digital Signal Processing". Mye av notatene er basert på boken [*Understanding Digital Signal Processing*](https://www.amazon.com/Understanding-Digital-Signal-Processing-3rd/dp/0137027419), som jeg synes er en helt fantastisk bok. Boken er gjennomført og hvert tema er så nøye forklart at det "nesten" blir for mye, men det betyr også at du aldri føler deg dum, men heller litt smart. Kan anbefales på det sterkeste.
