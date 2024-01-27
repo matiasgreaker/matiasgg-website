@@ -62,7 +62,9 @@ The inner sum is now independent of the outer summation and can be "pulled out",
 
 $$ = \left( \sum_{n=0}^{N-1} x^*[n]e^{ j 2 \pi n k/N} \right)\left( \sum_{m=0}^{N-1}x[m] e^{ -j 2 \pi m k/N}\right)$$
 
-$$ = \left( \sum_{n=0}^{N-1} x[n]e^{ -j 2 \pi n k/N} \right)^*\left( \sum_{m=0}^{N-1}x[m] e^{ -j 2 \pi m k/N}\right) = X^*[k]X[k] = |X[k]|^2 $$ 
+$$ = \left( \sum_{n=0}^{N-1} x[n]e^{ -j 2 \pi n k/N} \right)^*\left( \sum_{m=0}^{N-1}x[m] e^{ -j 2 \pi m k/N}\right) $$ 
+
+$$ = X^*[k]X[k] = |X[k]|^2 $$ 
 
 QED.
 
