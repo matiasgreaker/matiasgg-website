@@ -1,15 +1,9 @@
 ---
-title: "MUSIC"
+title: "DFT and Autocorrelation"
 draft: false
 mathjax: true
 weight: 4
 ---
-
-### MUSIC - (Multiple Signal Classification)
-
-Before going into the details about MUSIC I want to revisit some important topics. As I believe these topics lies in the hearth of MUSIC. 
-And a note about the math functions: when defining DSP functions, there are often multiple ways of defining them, e.g. for the DFT, some divide by the number of samples, some by the square root of the number of sample, some define it as an infinite sum, etc. These things are of course just details, and the main idea is the same for all of them. But, these details can be annoying if you want to program and test the theory against real examples. As many of these details makes you end up with a different scaling of your data. And I at least then always end up wondering: did I do it correctly or is it **just** a scaling that I'm missing? I will try to specify all of these details. With the idea that you can program everything in python and get **exactly** the same result. 
-
 
 #### DFT - Descrete Fourier transform 
 With that said, here is the definition of the DFT (exactly as the python library [Numpy](https://numpy.org/doc/stable/reference/routines.fft.html) defines it):
@@ -131,6 +125,13 @@ Running this code gives you the following plot:
 ![The two lines match exactly!](/images/dft_autocorrelation.png)
 
 
+### Summary
+
+This section can be summed up with the following diagram. The point I want to make is this: the power spectrum of some sequence $x[n]$ is exactly the same as the DFT of the autocorrelation function.
+
+![DFT - autocorrelation symmetry](/images/dft_autocorrelation_symmetry.drawio.png)
+
+Now you may ask, "Why do we want to do it one way or the other?", "How does this relate to the MUSIC algorithm?". I will try to answer these question in the following sections. For now, just remember this property.
 
 ### Reference
 * https://mathworld.wolfram.com/Autocorrelation.html
