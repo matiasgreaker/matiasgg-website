@@ -3,7 +3,7 @@ title: "DFT and Autocorrelation"
 draft: false
 mathjax: true
 weight: 4
-date: 2025-07-26T00:22:04+02:00
+date: 2025-04-20T00:22:04+02:00
 
 ---
 
