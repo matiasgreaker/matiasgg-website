@@ -1,10 +1,12 @@
 # Get started:
 
 1. Download Hugo: https://gohugo.io/
+   1. Install hugo, on windows: `winget install Hugo.Hugo.Extended`
+   2. Install Go: https://go.dev/doc/install
 2. Clone this repo
 3. Edit page
 4. Run ```hugo server -t hugo-theme-techdoc``` to test locally.
-4. Push to "main" branch to update website.
+5. Push to "main" branch to update website.
 
 # View page
 
