@@ -1,0 +1,15 @@
+[[entries]]
+title = "velkommen"
+
+  [[entries.entries]]
+  title = "Planen min er å fylle denne siden med notater og tanker. Mest for å huske ting jeg leser, men også for å øve på å skrive. Litt tekst er på engelsk og litt på norsk. Vi får se hvordan det går. Kildekoden for siden kan du finne <a href='https://github.com/matiasgreaker/matiasgg-website'>her (github)</a>."
+
+
+[[entries]]
+title = "mine notater"
+
+  [entries.post_list]
+  limit = 100
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"

@@ -3,10 +3,12 @@ title: "DFT and Autocorrelation"
 draft: false
 mathjax: true
 weight: 4
+date: 2025-07-26T00:22:04+02:00
+
 ---
 
 #### DFT - Descrete Fourier transform 
-With that said, here is the definition of the DFT (exactly as the python library [Numpy](https://numpy.org/doc/stable/reference/routines.fft.html) defines it):
+Here is the definition of the DFT (exactly as the python library [Numpy](https://numpy.org/doc/stable/reference/routines.fft.html) defines it):
 
 $$X[k] = \mathcal{F}(x[n]) = \sum_{n=0}^{N-1} x[n]e^{-j2\pi nk/N} $$
 

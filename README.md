@@ -14,8 +14,8 @@ The page can be viewed here: https://matiasgreaker.github.io/matiasgg-website/
 
 # Edit page
 
-1. Create a .md file in a subfolder under content or create a new subfolder. Copying from the other folders is a good idea to get started.
-2. Run deploy.sh to update webpage
+1. Create a .md file in a subfolder `under` content or create a new subfolder. Copying from the other folders is a good idea to get started.
+2. Push to main branch to update webpage.
 
 More tricks to come...
 

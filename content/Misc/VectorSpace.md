@@ -1,6 +1,6 @@
 ---
 title: "Vektorrom"
-draft: false
+draft: true
 mathjax: true
 weight: 4
 ---

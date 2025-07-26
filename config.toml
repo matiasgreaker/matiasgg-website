@@ -1,8 +1,11 @@
 baseURL = 'https://matiasgreaker.github.io'
 languageCode = 'en-us'
-title = 'matiasgg notes'
-theme = 'hugo-theme-techdoc'
+title = 'Matias notater'
+theme = 'hugo-theme-nostyleplease'
 canonifyURLs = true
 
 [params]
-    menu_style = "open-menu" # "open-menu" or "slide-menu"
+  [params.theme_config]
+    back_home_text    = "<--"
+    isShowFooter      = false
+    isListGroupByDate = true
