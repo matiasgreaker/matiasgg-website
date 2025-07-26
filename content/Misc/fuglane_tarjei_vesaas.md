@@ -1,7 +1,7 @@
 ---
 title: "Fuglane av Tarjei Vesaas"
 date: 2025-07-26
-draft: true
+draft: false
 mathjax: true
 weight: 4
 ---
