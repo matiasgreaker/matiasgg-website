@@ -1,7 +1,7 @@
 ---
 title: "Tanke om vitenskapelige definisjoner"
 date: 2025-07-29T11:22:04+02:00
-draft: true
+draft: false
 ---
 
 Jeg leste denne artikkelen her: https://blogg.forskning.no/religion-og-kulturmoter/kvifor-kan-ord-som-sno-og-granskog-fa-oss-til-a-grate/2061890
