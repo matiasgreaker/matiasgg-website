@@ -12,7 +12,7 @@ Selv om jeg er enig i mye av det som står i artikkelen, og som Rosa sier i yout
 Humaniora forsking bruker ofte låneord fra naturvitenskap. Sånn som her bruker Rosa ordet "resonans". Jeg tenker at dette er uheldig. Problemet for meg er at i naturvitenskap er "resonans" strengt definert. Det er knyttet opp til en fysisk målbar størrelse, og er ikke et begret som omandler mange ting. Mens i humaniora er det det. Det er knyttet opp til en definisjon i form av ord, og jeg er usikker på om leseren av disse ordene har samme forståelse av de ordene. Mest sannsynlig har noen av de samme forståelse, noen delvis samme, og noen helt forskjellig. Jeg tenker at å låne strengt definerte ord er et forsøk på å definere noe strengt. Et forsøk på å si at, "nå vet alle hva resonans er", så nå kan vi bygge videre på dette. Slik vitenskap gjør. Men det funker ikke for meg her. Og dermed blir all oppygning også litt mer vag for meg. Er dette feil fremgangsmåte for humanistisk vitenskap? Burde man unngå slike strengt definerte definisjoner? Jeg tror at her har naturvitenskapen et  fortrind, det er mye lettere å bygge videre på noe som alle har samme forståelse.
 
 Her er en liten illustrasjon av problemet:
-![Definisjoner.](/images/roots_resize.png)
+![Definisjoner.](/images/humaniora_definisjoner.png)
 
 Begreper Hartmut Rosa bruker:
 
