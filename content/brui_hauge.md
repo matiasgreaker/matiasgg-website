@@ -1,6 +1,6 @@
 ---
 title: "Brui (Av Olav H. Hauge)"
-date: 2025-12-14T11:09:41+02:00
+date: 2026-01-21T11:09:41+02:00
 draft: false
 ---
 Stiv av angest brått eg vakna  
