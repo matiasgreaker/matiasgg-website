@@ -25,7 +25,7 @@ ringe dørstokk kom.
 Og ho baud meg, brui, berre  
 koma til si borg.  
 I dei ljose månelandi  
-vert du kvitt di sorg.
+vert du kvitt di sorg.  
 Brått var blanke brui burte.  
 Frostal stod eg att.  
 Kom i døden du og ber meg  
