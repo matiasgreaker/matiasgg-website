@@ -1,3 +1,20 @@
 {
-    "cSpell.language": "en,nb"
+"cSpell.language": "en,nb",
+"[markdown]": {
+    // Disables auto-closing pairs like (), [], {}, "", ''
+    "editor.autoClosingPairs": "never",
+    // Stops auto-closing characters, specifically for Markdown
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+    // Prevents suggestion box from popping up automatically
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+    },
+    // Stops suggestions from appearing on special characters
+    "editor.suggestOnTriggerCharacters": false,
+    // Prevents accepting suggestions when hitting Enter
+    "editor.acceptSuggestionOnEnter": "off"
+}
 }
