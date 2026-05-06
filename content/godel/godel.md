@@ -1,7 +1,7 @@
 ---
 title: "Gödel"
 date: 2023-06-15
-draft: false
+draft: true
 mathjax: true
 weight: 30
 ---

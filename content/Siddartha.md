@@ -1,0 +1,6 @@
+---
+title: "Siddhartha"
+date: 2026-04-20T11:09:41+02:00
+draft: false
+---
+Jeg leste Siddhartha av Herman Hesse. Det handler om en man som er i konstant søken etter en spirituell opplysning. Som søker etter en dyp forståelse. Men det er nettop i denne søken han mister seg selv. Mister hvem han egentlig er. "When someone is searching" said Siddhartha, "then it might easily happen that the only thing his eyes still see is that what he searches for, that he is unable to find anything, to let anything enters his mind...". Jeg tenker at dette er svært relevant for for mange mennesker i dag. Vi er så opptatt av å finne ut hvem vi er, skape en identitet, at vi glemmer å kjenne etter. Ellers så synes jeg boken også er litt kjedelig. Det er litt mange lange fraser som for meg handler om det samme. Og det føles litt som det samme poenget blir repetert flere ganger i boken, men kun i en annen omgivelse. Mulig jeg misser noe, kanskje det er nye poenger, og det bare er jeg som ikke tar det helt inn. Det er mulig.
